@@ -1,6 +1,3 @@
 # supermercado
-para prueba
-
-Hola hola
-
-Ya ya
+capacitación informatorio programa supermercado
+permite aprender git
